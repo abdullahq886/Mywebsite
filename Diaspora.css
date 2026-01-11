@@ -151,8 +151,3 @@ a { text-decoration: none; color: inherit; transition: 0.3s; }
     .stats-grid, .steps-grid, .package-grid { grid-template-columns: 1fr; }
     .hero-content h1 { font-size: 2.5rem; }
 }
-
-
-
-
-
